@@ -1,3 +1,4 @@
+This project has been published on Netlify with the Hosted link : https://video-player-clone.netlify.app/ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
